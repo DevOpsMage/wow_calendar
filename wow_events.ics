@@ -2,14 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:This entry combines multiple events:\n- PvP Brawl: Deep Six\n- The War Within Dungeon Event
+DESCRIPTION:- PvP Brawl: Deep Six\n- The War Within Dungeon Event
 DTEND:20250708T160000Z
 DTSTART:20250701T160000Z
 SUMMARY:Multi-Event
 UID:e346af46-81d7-500f-beb3-fd835df0296e
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:This entry combines multiple events:\n- Arena Skirmish Bonus Event\n- PvP Brawl: Cooking Impossible\n- World Quest Bonus Event
+DESCRIPTION:- Arena Skirmish Bonus Event\n- PvP Brawl: Cooking Impossible\n- World Quest Bonus Event
 DTEND:20250603T160000Z
 DTSTART:20250527T160000Z
 SUMMARY:Multi-Event
@@ -22,7 +22,7 @@ SUMMARY:PvP Brawl: Arathi Blizzard
 UID:3ed2fc02-861a-554f-9c63-850aa9fb9b0b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:This entry combines multiple events:\n- Delves Bonus Event\n- PvP Brawl: Classic Ashran
+DESCRIPTION:- Delves Bonus Event\n- PvP Brawl: Classic Ashran
 DTEND:20250624T160000Z
 DTSTART:20250617T160000Z
 SUMMARY:Multi-Event
@@ -35,7 +35,7 @@ SUMMARY:Thousand Boat Bash
 UID:002cceac-1773-53f1-a857-e331aca7cb0b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:This entry combines multiple events:\n- PvP Brawl: Temple of Hotmogu\n- Timewalking Dungeon Event
+DESCRIPTION:- PvP Brawl: Temple of Hotmogu\n- Timewalking Dungeon Event
 DTEND:20250610T160000Z
 DTSTART:20250603T160000Z
 SUMMARY:Multi-Event
@@ -96,7 +96,7 @@ SUMMARY:Fireworks Spectacular
 UID:f253b1a7-4cfa-5897-90bd-bb6ab1897911
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:This entry combines multiple events:\n- PvP Brawl: Packed House\n- Timewalking Dungeon Event
+DESCRIPTION:- PvP Brawl: Packed House\n- Timewalking Dungeon Event
 DTEND:20250701T160000Z
 DTSTART:20250624T160000Z
 SUMMARY:Multi-Event
@@ -109,14 +109,14 @@ SUMMARY:Auction House Dance Party
 UID:a1b429fb-3e09-57c0-bf07-2dc5d3c4fa1a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:This entry combines multiple events:\n- PvP Brawl: Gravity Lapse\n- Timewalking Dungeon Event
+DESCRIPTION:- PvP Brawl: Gravity Lapse\n- Timewalking Dungeon Event
 DTEND:20250722T160000Z
 DTSTART:20250715T160000Z
 SUMMARY:Multi-Event
 UID:665ed513-f0c3-5b00-8b5a-20157ae2e135
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:This entry combines multiple events:\n- Battleground Bonus Event\n- Pet Battle Bonus Event\n- PvP Brawl: Southshore vs. Tarren Mill
+DESCRIPTION:- Battleground Bonus Event\n- Pet Battle Bonus Event\n- PvP Brawl: Southshore vs. Tarren Mill
 DTEND:20250617T160000Z
 DTSTART:20250610T160000Z
 SUMMARY:Multi-Event

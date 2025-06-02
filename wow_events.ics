@@ -14,14 +14,14 @@ SUMMARY:PvP Brawl: Deepwind Dunk
 UID:fdc5198c-823f-5e4c-b1dc-76951e54d82b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:May 27\, 2025 - June 03\, 2025\n- Arena Skirmish Bonus Event\n- PvP Brawl: Cooking Impossible\n- World Quest Bonus Event
+DESCRIPTION:- Arena Skirmish Bonus Event\n- PvP Brawl: Cooking Impossible\n- World Quest Bonus Event
 DTEND:20250603T160000Z
 DTSTART:20250527T160000Z
 SUMMARY:Multi-Event
 UID:cb0bb6c8-5c9e-50bb-a90c-324dfc7d051e
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:June 10\, 2025 - June 17\, 2025\n- Battleground Bonus Event\n- Pet Battle Bonus Event\n- PvP Brawl: Southshore vs. Tarren Mill
+DESCRIPTION:- Battleground Bonus Event\n- Pet Battle Bonus Event\n- PvP Brawl: Southshore vs. Tarren Mill
 DTEND:20250617T160000Z
 DTSTART:20250610T160000Z
 SUMMARY:Multi-Event
@@ -34,7 +34,7 @@ SUMMARY:PvP Brawl: Warsong Scramble
 UID:5e9e8a7e-c28b-53b8-9110-0f68e412e30a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:July 15\, 2025 - July 22\, 2025\n- PvP Brawl: Gravity Lapse\n- Timewalking Dungeon Event
+DESCRIPTION:- PvP Brawl: Gravity Lapse\n- Timewalking Dungeon Event
 DTEND:20250722T160000Z
 DTSTART:20250715T160000Z
 SUMMARY:Multi-Event
@@ -71,7 +71,7 @@ SUMMARY:Dastardly Duos
 UID:8a2336e3-b258-5010-a9b4-981d0ace7d9f
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:June 17\, 2025 - June 24\, 2025\n- Delves Bonus Event\n- PvP Brawl: Classic Ashran
+DESCRIPTION:- Delves Bonus Event\n- PvP Brawl: Classic Ashran
 DTEND:20250624T160000Z
 DTSTART:20250617T160000Z
 SUMMARY:Multi-Event
@@ -90,7 +90,7 @@ SUMMARY:Darkmoon Faire
 UID:3e46a456-10b5-5b58-ad44-f5fc7bbd2af6
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:June 24\, 2025 - July 01\, 2025\n- PvP Brawl: Packed House\n- Timewalking Dungeon Event
+DESCRIPTION:- PvP Brawl: Packed House\n- Timewalking Dungeon Event
 DTEND:20250701T160000Z
 DTSTART:20250624T160000Z
 SUMMARY:Multi-Event
@@ -121,14 +121,14 @@ SUMMARY:Midsummer Fire Festival
 UID:aa338774-b82c-516e-85c5-5f342f5c07ca
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:July 01\, 2025 - July 08\, 2025\n- PvP Brawl: Deep Six\n- The War Within Dungeon Event
+DESCRIPTION:- PvP Brawl: Deep Six\n- The War Within Dungeon Event
 DTEND:20250708T160000Z
 DTSTART:20250701T160000Z
 SUMMARY:Multi-Event
 UID:4f70a590-8790-5b54-9e4f-aa0e5f9c0246
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:June 03\, 2025 - June 10\, 2025\n- PvP Brawl: Temple of Hotmogu\n- Timewalking Dungeon Event
+DESCRIPTION:- PvP Brawl: Temple of Hotmogu\n- Timewalking Dungeon Event
 DTEND:20250610T160000Z
 DTSTART:20250603T160000Z
 SUMMARY:Multi-Event
